@@ -1,0 +1,6 @@
+streamlit
+google-genai
+pymupdf
+networkx
+pyvis
+python-dotenv
